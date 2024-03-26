@@ -6,7 +6,7 @@ Using the API's Spoonacular and YouTube, up to three results are presented from 
 
 The app works on current versions of Windows and iOS.
 
-Deployed app URL:
+Deployed app URL: https://mbyford49.github.io/mikesrecipefinder/
 
 
 
@@ -53,5 +53,4 @@ Authors
 
 Alexandra Austin 
 Mike Byford
-Aaron Brown
 Jim Mercurio
